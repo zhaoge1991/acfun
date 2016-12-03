@@ -1,0 +1,112 @@
+/***************зЂВс*********************/
+body{
+  background-color:#FBFBFB;
+}
+#register{
+  width:1200px;
+  height:530px;
+  margin-left:140px;
+  
+}
+#register p{
+  width:450px;
+  float:left;
+  margin:60px 100px 0 80px;
+}
+#register img{
+  border-radius:100px;
+  margin-top:30px;
+}
+#register form{
+  float:left;
+  width:350px;
+  height:520px;
+}
+form p{
+  width:140px;
+  height:28px;
+  margin-left:90px;
+  margin-top:10px;
+  padding-left:30px;
+  background:url(../Images/logo_icon.png) no-repeat;
+}
+form p span{
+  font-size:18px;
+  margin-left:5px;
+}
+form input{
+  width:314px;
+  height:38px;
+  padding-left:34px;
+  border:1px solid #bbb;
+  margin:10px 0;
+}
+form input:hover{
+  border:1px solid #0088CC;
+}
+form input.phone{
+  background:url(../Images/pic23.png) no-repeat 15px 10px;
+}
+form input.username{
+  background:url(../Images/pic24.png) no-repeat 15px 13px;
+}
+form input.pwd{
+  background:url(../Images/pic25.png) no-repeat 15px 13px;
+}
+form #pcode{
+  height:38px;
+  margin:10px 0;
+}
+form #pcode input{
+  width:158px;
+  height:34px;
+  margin:0px;
+  padding-left:5px;
+}
+form #pcode input.send_code{
+  float:right;
+  height:38px;
+  border:1px solid #bbb;
+  color:#C2C2C2;
+}
+form #deal{
+  width:350px;
+  height:30px;
+}
+form #deal input{
+  width:15px;
+  height:15px;
+  padding:0;
+  margin:5px 3px 0 3px;
+}
+form #deal a#use_deal{
+  text-decoration:none;
+  color:#3A86EF; 
+}
+form #deal a#return{
+  float:right;
+  margin-top:5px;
+  margin-right:3px;
+  color:#3A86EF;
+}
+form #deal a#return:hover{
+  text-decoration:underline;
+}
+#subInput{
+  width:350px;
+  height:38px;
+  border:1px solid #DCDCDC;
+  background-color:#67BDCD;
+  border-radius:3px;
+  color:#fff;
+  margin-bottom:10px;
+  text-align:center;
+  padding:0;
+}
+#subInput:hover{
+  background:#2D9BAD;
+}
+form a:last-child{
+  color:#3A86EF;
+  text-decoration:none;
+}

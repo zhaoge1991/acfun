@@ -1,0 +1,82 @@
+/***************登录*********************/
+body{
+  background-color:#FBFBFB;
+}
+#register{
+  width:1200px;
+  height:450px;
+  margin-left:140px;
+  
+}
+#register p{
+  width:450px;
+  float:left;
+  margin:60px 100px 0 80px;
+}
+#register img{
+  border-radius:100px;
+  margin-top:30px;
+}
+#register form{
+  float:left;
+  width:350px;
+  height:310px;
+  margin-top:30px;
+}
+form p{
+  width:140px;
+  height:28px;
+  margin-left:90px;
+  margin-top:10px;
+  padding-left:30px;
+  background:url(../Images/logo_icon.png) no-repeat;
+}
+form p span{
+  font-size:18px;
+  margin-left:5px;
+}
+form input{
+  width:314px;
+  height:38px;
+  padding-left:34px;
+  border:1px solid #bbb;
+  margin:20px 0;
+  position:relative;
+}
+form>span{
+  position:absolute;
+  left:-300px;
+  color:#bbb;
+  font-size:14px;
+}
+form input:hover{
+  border:1px solid #0088CC;
+}
+form input.username{
+  background:url(../Images/pic24.png) no-repeat 15px 13px;
+}
+form input.pwd{
+  background:url(../Images/pic25.png) no-repeat 15px 13px;
+}
+form a{
+  width:134px;
+  height:40px;
+  margin-top:20px;
+  border:1px solid #bbb;
+}
+form a.lf{
+  margin-right:48px;
+}
+#register div {
+  float:left;
+  width:350px;
+  height:20px;
+  margin-top:15px;
+  font-size:14px;
+}
+#register div a{
+  float:right;
+  margin-right:36px;
+  text-decoration:none;
+  color:#369;
+}

@@ -1,0 +1,168 @@
+#top{
+  height:46px;
+}
+#top #sousuo{
+  width:148px;
+  height:26px;
+  float:left;
+}
+#top #sousuo input{
+  width:114px;
+  float:left;
+  padding-right:34px;
+  height:22px;
+  border:1px solid #4FCBCF;
+  border-radius:10px;
+  margin-top:3px
+}
+#main{
+  width:1440px;
+  margin:0;
+  margin-top:10px;
+}
+#v1{
+  padding:0 140px;
+  background:#F8F8F8;
+  height:772px;
+  position:relative;
+}
+#v1 h2{
+  padding:22px 0 16px 0;
+  font-size:18px;
+}
+#v1 p{
+  margin-bottom:10px;
+}
+#v1 p a{
+  text-decoration:none;
+}
+#v1 #video{
+  background:#000;
+  position:absolute;
+}
+#v1 #play{
+  width:1160px;
+  height:36px;
+  background:#fff;
+  border:1px solid #eee;
+  position:relative;
+  top:495px;
+}
+#play #s1{
+  background:#fff;
+  float:left;
+}
+#play b{
+  float:left;
+  margin-left:20px;
+}
+#play ul{
+  float:right;
+  width:300px;
+}
+#play ul li{
+  float:left;
+  position:relative;
+  margin-left:24px;
+}
+#play .svg{
+  position:absolute;
+  left:5px;
+}
+#v1 #send{
+ margin-top:32px;
+ width:100%;
+ position:relative;
+ height:40px;
+ border:1px solid #eee;
+ background:#fff;
+ top:460px;
+}
+#send input{
+  width:900px;
+  height:26px;
+  background:#f5f5f5;
+  margin-top:6px;
+}
+#send #btn{
+  height:26px;
+  width:72px;
+  background:#FD4C5B;
+  color:#fff;
+  border-radius:2px;
+}
+#v1 #play_detail{
+  position:absolute;
+  bottom:20px;
+  width:1160px;;
+  height:70px;
+  border:1px solid #eee;
+  background:#fff;
+}
+#play_detail ul{
+  float:left;
+  height:36px;
+  width:260px;
+  margin-top:17px;
+}
+#play_detail>ul{
+  border-right:1px solid #eee;
+}
+#play_detail>ul>li{
+  float:left;
+  margin:0 20px;
+}
+#play_detail ul li p{
+  font-weight:bold;
+}
+#play_detail dl{
+  float:left;
+  margin-top:17px;
+  margin-left:25px;
+  height:36px;
+  width:95px;
+}
+#play_detail dl dt{
+  float:left;
+  margin-right:10px;
+}
+#play_detail dl dt img{
+  width:36px;
+  height:36px;
+}
+#play_detail dl dd{
+  float:left;
+}
+#play_detail #share{
+  float:right;
+  width:280px;
+}
+#share span{
+  float:left;
+  display:inline-block;
+  margin:25px 20px 0 0;
+
+}
+#share ul{
+  width:220px;
+  float:right;
+}
+#share ul li{
+  float:left;
+  margin-right:15px;
+}
+#share img{
+  width:36px;
+  height:36px;
+}
+
+
+
+
+
+
+
+
+
+
+
